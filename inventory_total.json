@@ -1,0 +1,14 @@
+[
+  {
+    "pumpkin": {
+      "quantity": 10,
+      "price": 20
+    }
+  },
+  {
+    "apple": {
+      "quantity": 10,
+      "price": 22
+    }
+  }
+]
