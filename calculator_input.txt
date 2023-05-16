@@ -1,0 +1,1 @@
+[{"amount": 5, "rate": 0.3, "time": 5, "years": 9}, {"amount": 5, "rate": 0.3, "time": 5, "years": 1}, {"amount": 5, "rate": 0.3, "time": 5, "years": 2}, {"amount": 5, "rate": 0.3, "time": 5, "years": 4}]
